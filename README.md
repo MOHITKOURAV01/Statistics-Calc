@@ -14,7 +14,6 @@ A simple and intuitive web-based statistics calculator that helps you compute va
 
 ## 🛠️ Tech Stack  
 - HTML, CSS, JavaScript  
-- React.js  
 - Deployed on Vercel  
 
 ## 📷 Screenshots  
