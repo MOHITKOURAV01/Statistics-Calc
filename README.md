@@ -7,8 +7,6 @@ A simple and intuitive web-based statistics calculator that helps you compute va
 
 ## 📌 Features  
 - Mean, Median, Mode calculations  
-- Standard Deviation & Variance  
-- Range & Percentiles  
 - User-friendly UI  
 - Fast & accurate computations  
 
