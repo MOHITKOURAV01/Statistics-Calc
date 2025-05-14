@@ -6,7 +6,7 @@ A simple and intuitive web-based statistics calculator that helps you compute va
 🔗 [Try it here](https://statistics-calc.vercel.app/)  
 
 ## 📌 Features  
-- Mean, Median, Mode calculations  
+- Mean, Median, Mode calculations.  
 - User-friendly UI  
 - Fast & accurate computations  
 
