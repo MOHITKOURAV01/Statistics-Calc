@@ -7,8 +7,8 @@ A simple and intuitive web-based statistics calculator that helps you compute va
 
 ## 📌 Features  
 - Mean, Median, Mode calculations.  
-- User-friendly UI  
-- Fast & accurate computations  
+- User-friendly UI.  
+- Fast & accurate computations. 
 
 ## 🛠️ Tech Stack  
 - HTML, CSS, JavaScript.  
