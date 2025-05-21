@@ -3,21 +3,21 @@
 A simple and intuitive web-based statistics calculator that helps you compute various statistical measures with ease.  
 
 ## 🚀 Live Demo  
-🔗 [Try it here](https://statistics-calc.vercel.app/)  
+🔗 [Try it here](https://statistics-calc.vercel.app/).
 
 ## 📌 Features  
 - Mean, Median, Mode calculations.  
 - User-friendly UI.  
 - Fast & accurate computations. 
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack.  
 - HTML, CSS, JavaScript.  
-- Deployed on Vercel. 
+- Deployed on Vecel. 
 
-## 📷 Screenshots  
+## 📷 Screenshots.  
 (Include relevant screenshots of your app here)  
 
-## 🎯 How to Use  
+## 🎯 How to Use.  
 1. Enter your data set in the input field  
 2. Click on the required statistical function  
 3. Get instant results!  
