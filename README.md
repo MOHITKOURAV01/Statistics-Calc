@@ -2,7 +2,7 @@
 
 A simple and intuitive web-based statistics calculator that helps you compute various statistical measures with ease.  
 
-## 🚀 Live Demo. 
+## 🚀 Live Demo...
 🔗 [Try it here](https://statistics-calc.vercel.app/)...
 
 ## 📌 Features.  
